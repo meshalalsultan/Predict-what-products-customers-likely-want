@@ -1,4 +1,4 @@
-# Predict-what-products-customers-likely-want
+# Predict What Products Customers Likely Want
 
 Predict what products customers likely want using machine learning and then optimize a targeted campaign using advanced decision optimization in a Jupyter notebook.
 
